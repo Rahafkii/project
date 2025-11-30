@@ -9,3 +9,4 @@ easyocr
 joblib
 scikit-learn
 xlsxwriter
+
