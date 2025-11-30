@@ -1,0 +1,11 @@
+streamlit
+opencv-python-headless
+pillow
+numpy
+pandas
+torch
+ultralytics
+easyocr
+joblib
+scikit-learn
+xlsxwriter
